@@ -1,5 +1,5 @@
 # 한신대학교 AI.SW계열 1학년 강태윤입니다
-## Hi there 👋
+## nbu0522@gmail.com
 
 <!--
 **kty-developer/kty-developer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
